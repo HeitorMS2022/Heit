@@ -1,0 +1,41 @@
+#eu{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+body{
+    z-index: 9;
+    margin: 0px;
+    padding-top: 40px;
+    text-align: center;
+    background: linear-gradient(#fcfc03 0%,#03fcf4 100%);
+}
+#ul{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    z-index: 10;
+    right: 30px;
+    cursor: pointer;
+    background-color: #03fcf4;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: large;
+}
+button{
+    color: #fcfc03;
+    background-color: #03fcf4;
+    height: 50;
+    width: 444;
+}
+.contato1 h3{
+    display: inline;
+}
